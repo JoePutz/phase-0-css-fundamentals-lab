@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+  color: red;
+}
+nav {
+  text-align: center;
+}
+
+figure {
+  text-align: center;
+ }
+
+ #featured-property > p {
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+#details {
+  background: red;
+  column-count: 4;
+  margin-left: 50px;
+}
